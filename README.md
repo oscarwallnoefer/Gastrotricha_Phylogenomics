@@ -6,6 +6,9 @@ DOI:
 
 Authors: `Wallnoefer Oscar`, `Kosakyan Anush`, `Todaro M. Antonio`, `Plazzi Federico`
 
+Zenodo:
+
+Dryrad:
 
 Structure:
 
