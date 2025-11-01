@@ -1,4 +1,6 @@
-# Gastrotricha Phylogenomics
+<h1>
+  Gastrotricha <img src="Lepidodermella_squamata.png" width="50" height="50" style="vertical-align: middle; margin: 0 0;">Phylogenomics
+</h1>
 
 This is main code used in `Towards a Phylogenomics of Gastrotricha`. 
 
