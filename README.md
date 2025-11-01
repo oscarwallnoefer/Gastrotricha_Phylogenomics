@@ -1,12 +1,10 @@
-# Gastrotricha_Phylogenomics
+# Gastrotricha Phylogenomics
 
-This is main code used in "Towards a Phylogenomics of Gastrotricha". 
+This is main code used in `Towards a Phylogenomics of Gastrotricha`. 
 
 DOI: 
 
-Authors: Wallnoefer Oscar, Kosakyan Anush, Todaro M. Antonio, Plazzi Federico
-
-Script author: Oscar Wallnoefer
+Authors: `Wallnoefer Oscar`, `Kosakyan Anush`, `Todaro M. Antonio`, `Plazzi Federico`
 
 
 Structure:
