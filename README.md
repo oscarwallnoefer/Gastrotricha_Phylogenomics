@@ -9,7 +9,6 @@ Authors: `Wallnoefer Oscar`, `Kosakyan Anush`, `Todaro M. Antonio`, `Plazzi Fede
 
 Structure:
 
-```
 .
 ├── run_fts.sh         	 # fastQC, Trimmomatic and SPAdes
 ├── run_blobtools.sh     # Diamond + BlobTools
@@ -19,5 +18,3 @@ Structure:
 ├── run_rf.R             # plot Robinson-Fould distances
 ├── run_acr.R            # plot ancestral state
 └── run_missing.R        # identify missing genes and Venn plot
-
-```
