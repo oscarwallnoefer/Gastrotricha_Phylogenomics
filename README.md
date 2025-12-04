@@ -5,15 +5,15 @@
 This is main code used in `A Phylogenomic Framework of Gastrotricha
 Evolutionary Relationships`. 
 
-DOI: [http://dx.doi.org/10.2139/ssrn.5818579](http://dx.doi.org/10.2139/ssrn.5818579)
+**DOI:** [http://dx.doi.org/10.2139/ssrn.5818579](http://dx.doi.org/10.2139/ssrn.5818579)
 
-Authors: `Wallnoefer Oscar`, `Kosakyan Anush`, `Agata Cesaretti`, `Francesco Saponi`, `Leandro Gammuto`, `Valentina Serra`, `Giulio Petroni`, `Todaro M. Antonio`, `Plazzi Federico`
+**Authors:** `Wallnoefer Oscar`, `Kosakyan Anush`, `Agata Cesaretti`, `Francesco Saponi`, `Leandro Gammuto`, `Valentina Serra`, `Giulio Petroni`, `Todaro M. Antonio`, `Plazzi Federico`
 
-Figshare: [10.6084/m9.figshare.30686585](10.6084/m9.figshare.30686585)
+**Figshare:** [https://doi.org/10.6084/m9.figshare.30686585](https://doi.org/10.6084/m9.figshare.30686585)
 
-Citation: `Wallnoefer, Oscar and Kosakyan, Anush and Cesaretti, Agata and Saponi, Francesco and Gammuto, Leandro and Serra, Valentina and Petroni, Giulio and Plazzi, Federico and Todaro, M. Antonio, A Phylogenomic Framework of Gastrotricha Evolutionary Relationships. 2025. Available at SSRN: http://dx.doi.org/10.2139/ssrn.5818579`
+**Citation:** `Wallnoefer, Oscar and Kosakyan, Anush and Cesaretti, Agata and Saponi, Francesco and Gammuto, Leandro and Serra, Valentina and Petroni, Giulio and Plazzi, Federico and Todaro, M. Antonio, A Phylogenomic Framework of Gastrotricha Evolutionary Relationships. 2025. Available at SSRN: http://dx.doi.org/10.2139/ssrn.5818579`
 
-Structure:
+**Structure:**
 
 ```
 .
