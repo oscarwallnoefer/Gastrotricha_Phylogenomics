@@ -2,15 +2,14 @@
   Gastrotricha <img src="Lepidodermella_squamata.png" width="50" height="50" style="vertical-align: middle; margin: 0 0;">Phylogenomics
 </h1>
 
-This is main code used in `Towards a Phylogenomics of Gastrotricha`. 
+This is main code used in `A Phylogenomic Framework of Gastrotricha
+Evolutionary Relationships`. 
 
 DOI: 
 
-Authors: `Wallnoefer Oscar`, `Kosakyan Anush`, `Todaro M. Antonio`, `Plazzi Federico`
+Authors: `Wallnoefer Oscar`, `Kosakyan Anush`, `Agata Cesaretti`, `Francesco Saponi`, `Leandro Gammuto`, `Valentina Serra`, `Giulio Petroni`, `Todaro M. Antonio`, `Plazzi Federico`
 
-Zenodo:
-
-Dryrad:
+Figshare: [10.6084/m9.figshare.30686585](10.6084/m9.figshare.30686585)
 
 Structure:
 
