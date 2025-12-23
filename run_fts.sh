@@ -51,13 +51,10 @@ main_pipeline() {
             run_trimmomatic "$dir"
             run_spades "$dir"
         else
-            echo "No paired FASTQ files found in $dir, Skipping."
+            echo "No paired FASTQ files in $dir, Skipping."
         fi
     done
 }
-
-# Execution
-echo "[INFO] Starting pipeline..."
 
 # Parsing
 parallel_jobs=1
@@ -85,7 +82,6 @@ while [[ "$1" != "" ]]; do
     shift
 done
 
-# Directories
 species_dirs=(*/)
 
 # Run in parallel
