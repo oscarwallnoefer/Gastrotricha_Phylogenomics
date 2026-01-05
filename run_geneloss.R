@@ -2,7 +2,7 @@
 
 ######## Presence Absence Matrix
 library(pheatmap)
-busco_mat <- read.csv("BUSCO_presenceAbsence.tsv", header = T, sep = "\t", row.names = 1)
+busco_mat <- read.csv("BUSCO_PresenceAbsence.tsv", header = T, sep = "\t", row.names = 1)
 dim(busco_mat)
 colnames(busco_mat)
 rownames(busco_mat)
