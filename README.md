@@ -17,6 +17,7 @@ Evolutionary Relationships`.
 
 ```
 .
+├── 00_input_data/BUSCO_presenceAbsence.tsv 
 ├── run_fts.sh         	   # fastQC, Trimmomatic and SPAdes
 ├── run_blobtools.sh       # Diamond + BlobTools
 ├── run_filt.py            # filter contaminants RNAseq 
