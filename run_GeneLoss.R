@@ -112,20 +112,4 @@ fit <- euler(sets)
 plot(fit,fills = list(fill = c("aquamarine", "white", "steelblue"), alpha = 0.8),
 labels = TRUE,quantities = TRUE,main = "")
 
-####### fast presence/absence matrix
-
-library(pheatmap)
-library(RColorBrewer)
-
-busco <- read.table("busco_presence_absence.tsv", header = TRUE, row.names = 1, sep = "\t")
-col_palette <- colorRampPalette(c("white", "steelblue"))(100)
-
-pheatmap(busco_matrix, 
-color = col_palette, 
-cluster_rows = TRUE, 
-cluster_cols = TRUE, 
-show_rownames = FALSE, 
-show_colnames = TRUE,
-border_color = NA,
-main = "")
 
