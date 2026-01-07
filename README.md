@@ -25,7 +25,7 @@ Evolutionary Relationships`.
 ├── run_kiss.R             # plot genome size distribution
 ├── run_rf.R               # plot Robinson-Fould distances
 ├── run_acr.R              # plot ancestral state
-└── run_geneloss.R          # identify missing genes and Venn plot
+└── run_geneloss.R         # identify missing genes and Venn plot
 ```
 
 ### Abstract
