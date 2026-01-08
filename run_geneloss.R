@@ -70,6 +70,8 @@ percent_non_macrodasyida <- length(genes_absent_non_macrodasyida) / nrow(busco_m
 cat("Non-Macrodasyida (Oiorpata + Chaetonotida):", length(genes_absent_non_macrodasyida),
     "genes absent (", round(percent_non_macrodasyida, 2), "%)\n")
 
+# genes_absent_all <- rownames(busco_mat)[rowSums(busco_mat) == 0]
+
 ######## summary table
 Group Genes_absent   Percent
 1         Oiorpata          107 11.215933
